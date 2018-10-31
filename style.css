@@ -1,3 +1,15 @@
 /*
 Theme name: Toaster
 */
+body {
+    margin: 0;
+    padding: 0;
+}
+main {
+    padding: 3rem;
+}
+header, footer {
+    padding: 3rem 0;
+    text-align: center;
+    background-color: #eee;
+}
